@@ -1,0 +1,29 @@
+
+  h1{
+    color: blue;
+  }
+
+
+  img:hover{
+  background-color: gold;
+  }
+
+
+/***********class SECTOR**************/
+.Bacon
+{
+  background-color: green;
+}
+.Broccoli
+{
+  background-color: green;
+}
+.circular
+{
+  border-radius: 100%;
+}
+/***********class SECTOR**************/
+#heading
+{
+  color: red;
+}
